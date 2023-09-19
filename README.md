@@ -19,3 +19,8 @@ To meet the project requirements:
 - I included a profile photo and used anchor tags to create a multi-page website, listing additional resume aspects like Hobbies and Contact details.
 - I added a `<footer>` element with my name and copyright information.
 
+## How to View the Resume
+You can view my online resume by visiting the following GitHub Pages link: [My Online Resume](https://yourgithubusername.github.io/SimpleHTMLResume/)
+
+Feel free to explore the different sections of my resume and provide feedback.
+
