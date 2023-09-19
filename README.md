@@ -5,7 +5,6 @@ This is a simple online resume created using HTML only as part of the Udemy Web 
 ## Table of Contents
 - [Project Description](#project-description)
 - [Project Requirements](#project-requirements)
-- [How to View the Resume](#how-to-view-the-resume)
 
 ## Project Description
 This project is an online resume created with HTML. It covers various aspects of my background, including a summary, education, work experience, skills, and achievements.
@@ -18,9 +17,3 @@ To meet the project requirements:
 - Inside the `<body>` section, I used appropriate HTML tags to format the content for each section.
 - I included a profile photo and used anchor tags to create a multi-page website, listing additional resume aspects like Hobbies and Contact details.
 - I added a `<footer>` element with my name and copyright information.
-
-## How to View the Resume
-You can view my online resume by visiting the following GitHub Pages link: [My Online Resume](https://yourgithubusername.github.io/SimpleHTMLResume/)
-
-Feel free to explore the different sections of my resume and provide feedback.
-
